@@ -20,3 +20,6 @@ Next session
   * Mocha
 * Protractor
   * Mocha? Or Jasmine 
+
+* Auto-generate mongoose data via *?* Fakery?
+  * Server-side and client-side?
