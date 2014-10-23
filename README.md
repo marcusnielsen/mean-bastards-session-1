@@ -10,10 +10,12 @@ What do we want to achieve?
   * SPA angularjs
   
 * Browserify
-* Gulp
 
 Next session
 ------------
+* Gulp setup
+
+* Metadata files
 
 * Deploy to heroku?
 * Karma
